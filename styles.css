@@ -52,7 +52,7 @@
 }
 
 .description {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     font-weight: 500;
     color: white;
     margin-left: 4.375rem;
@@ -141,7 +141,7 @@
 .incont {
     margin-top: 2.1875rem;
     margin-left: 0.3125rem;
-    font-size: 0.5rem;
+    font-size: 2rem;
     color: gray;
 }
 
